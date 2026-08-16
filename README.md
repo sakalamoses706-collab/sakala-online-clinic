@@ -1,6 +1,13 @@
-Sakala's Online Clinic
+Name:Moses Sakala
+SIN: 2502402407
+Program:Bachalor of Science in Systems Engineering
 
-1. Project Overview
+
+
+**Sakala's Online Clinic**
+
+
+**1. Project Overview**
 
 Sakala's Online Clinic is a simple multi-page healthcare website developed using HTML. The purpose of the website is to provide users with information about available medical services, doctors, appointments, and contact details.
 
